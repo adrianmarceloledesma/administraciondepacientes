@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adrianmarceloledesma/administraciondepacientes/static/css/main.05b94519.chunk.css",
-    "main.js": "/adrianmarceloledesma/administraciondepacientes/static/js/main.1c97d3a4.chunk.js",
-    "main.js.map": "/adrianmarceloledesma/administraciondepacientes/static/js/main.1c97d3a4.chunk.js.map",
-    "runtime-main.js": "/adrianmarceloledesma/administraciondepacientes/static/js/runtime-main.59ef5eb8.js",
-    "runtime-main.js.map": "/adrianmarceloledesma/administraciondepacientes/static/js/runtime-main.59ef5eb8.js.map",
-    "static/js/2.bc137679.chunk.js": "/adrianmarceloledesma/administraciondepacientes/static/js/2.bc137679.chunk.js",
-    "static/js/2.bc137679.chunk.js.map": "/adrianmarceloledesma/administraciondepacientes/static/js/2.bc137679.chunk.js.map",
-    "index.html": "/adrianmarceloledesma/administraciondepacientes/index.html",
-    "precache-manifest.aaeb2d3902cc695c94b10944150a8d09.js": "/adrianmarceloledesma/administraciondepacientes/precache-manifest.aaeb2d3902cc695c94b10944150a8d09.js",
-    "service-worker.js": "/adrianmarceloledesma/administraciondepacientes/service-worker.js",
-    "static/css/main.05b94519.chunk.css.map": "/adrianmarceloledesma/administraciondepacientes/static/css/main.05b94519.chunk.css.map",
-    "static/js/2.bc137679.chunk.js.LICENSE.txt": "/adrianmarceloledesma/administraciondepacientes/static/js/2.bc137679.chunk.js.LICENSE.txt"
+    "main.css": "/administraciondepacientes/static/css/main.05b94519.chunk.css",
+    "main.js": "/administraciondepacientes/static/js/main.2dc3f627.chunk.js",
+    "main.js.map": "/administraciondepacientes/static/js/main.2dc3f627.chunk.js.map",
+    "runtime-main.js": "/administraciondepacientes/static/js/runtime-main.0cb59be3.js",
+    "runtime-main.js.map": "/administraciondepacientes/static/js/runtime-main.0cb59be3.js.map",
+    "static/js/2.bc137679.chunk.js": "/administraciondepacientes/static/js/2.bc137679.chunk.js",
+    "static/js/2.bc137679.chunk.js.map": "/administraciondepacientes/static/js/2.bc137679.chunk.js.map",
+    "index.html": "/administraciondepacientes/index.html",
+    "precache-manifest.3322ce63c715736e2ba47f7392756f7b.js": "/administraciondepacientes/precache-manifest.3322ce63c715736e2ba47f7392756f7b.js",
+    "service-worker.js": "/administraciondepacientes/service-worker.js",
+    "static/css/main.05b94519.chunk.css.map": "/administraciondepacientes/static/css/main.05b94519.chunk.css.map",
+    "static/js/2.bc137679.chunk.js.LICENSE.txt": "/administraciondepacientes/static/js/2.bc137679.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59ef5eb8.js",
+    "static/js/runtime-main.0cb59be3.js",
     "static/js/2.bc137679.chunk.js",
     "static/css/main.05b94519.chunk.css",
-    "static/js/main.1c97d3a4.chunk.js"
+    "static/js/main.2dc3f627.chunk.js"
   ]
 }
