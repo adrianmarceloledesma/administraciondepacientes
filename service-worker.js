@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adrianmarceloledesma/administraciondepacientes/tree/gh-pages/precache-manifest.3c6bae4e4bb613cc6b805305ea1e64cb.js"
+  "/adrianmarceloledesma/administraciondepacientes/precache-manifest.aaeb2d3902cc695c94b10944150a8d09.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/adrianmarceloledesma/administraciondepacientes/tree/gh-pages/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/adrianmarceloledesma/administraciondepacientes/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
